@@ -32,6 +32,7 @@
     - 1) componentDidMount() "exécutée après que la sortie du composant a été injectée dans le DOM."
     - 2) componentWillUnmount() destruct the component
   - pass args to onEvent() attr https://fr.reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers
+    - keys: "chaque élément à l’intérieur d’un appel à map() a besoin d’une clé"
   
 - web page design with components tree
   - components tree design and hierarchy https://fr.reactjs.org/docs/thinking-in-react.html
@@ -45,3 +46,5 @@
   - "Si vous imaginez un arbre de composants comme une cascade de props, chaque état de composant est une source d’eau supplémentaire qui rejoint la cascade à un point quelconque, mais qui coule également vers le bas." https://fr.reactjs.org/docs/state-and-lifecycle.html#the-data-flows-down
   
 </details>
+
+next https://fr.reactjs.org/docs/forms.html
