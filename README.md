@@ -24,7 +24,7 @@
   - state and props
     - ***"The main responsibility of a Component is to translate raw data into rich HTML. With that in mind, the props and the state together constitute the raw data that the HTML output derives from."***
     - commonalities: objects, render update, deterministic
-    - differences [see](https://fr.reactjs.org/docs/faq-state.html#what-is-the-difference-between-state-and-props)
+    - [see differences](https://fr.reactjs.org/docs/faq-state.html#what-is-the-difference-between-state-and-props)
     - state: value defined by the component itself, to start with. Optional, preferable without (too many <=> + complexity and - predictability)
     - props - properties: value received from parent component, immutable for "pure" component. Like function argument
   - web page design with components tree
