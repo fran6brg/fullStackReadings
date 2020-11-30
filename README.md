@@ -47,4 +47,10 @@
   
 </details>
 
-next https://fr.reactjs.org/docs/forms.html
+
+
+to read next 
+https://fr.reactjs.org/docs/forms.html
+https://fr.reactjs.org/docs/faq-ajax.html
+https://fr.reactjs.org/docs/faq-structure.html
+https://reactfordesigners.com/
