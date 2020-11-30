@@ -31,7 +31,8 @@
   - lifecycle methods https://fr.reactjs.org/docs/state-and-lifecycle.html#adding-lifecycle-methods-to-a-class
     - 1) componentDidMount() "exécutée après que la sortie du composant a été injectée dans le DOM."
     - 2) componentWillUnmount() destruct the component
-
+  - pass args to onEvent() attr https://fr.reactjs.org/docs/handling-events.html#passing-arguments-to-event-handlers
+  
 - web page design with components tree
   - components tree design and hierarchy https://fr.reactjs.org/docs/thinking-in-react.html
 
