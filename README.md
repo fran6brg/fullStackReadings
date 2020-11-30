@@ -54,3 +54,5 @@ https://fr.reactjs.org/docs/forms.html
 https://fr.reactjs.org/docs/faq-ajax.html
 https://fr.reactjs.org/docs/faq-structure.html
 https://reactfordesigners.com/
+https://github.com/gilamran/fullstack-typescript
+https://fr.reactjs.org/docs/hooks-intro.html
