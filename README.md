@@ -31,6 +31,6 @@
     - components tree design and hierarchy https://fr.reactjs.org/docs/thinking-in-react.html
 
 - on conventions
-  - DOM tag if downcase <div /> but <Component /> if uppercase
+  - DOM tag if downcase \<div \/> but \<Component \/> if uppercase
 
 </details>
