@@ -35,6 +35,7 @@
   
 - web page design with components tree
   - components tree design and hierarchy https://fr.reactjs.org/docs/thinking-in-react.html
+  - loop to display * components https://fr.reactjs.org/docs/lists-and-keys.html#rendering-multiple-components
 
 - on conventions
   - DOM tag if downcase \<div \/> but \<Component \/> if uppercase
