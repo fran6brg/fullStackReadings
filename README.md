@@ -59,6 +59,7 @@ on react x ajax requests
 - with hooks: const [error, setError] = useState(null); const [isLoaded, setIsLoaded] = useState(false); const [items, setItems] = useState([]);
 - or without: this.state = { error: null, isLoaded: false, items: [] };
 - fetch vs axios https://blog.logrocket.com/axios-or-fetch-api/
+- env variables to store APIs keys https://medium.com/@trekinbami/using-environment-variables-in-react-6b0a99d83cf5
 
 on forms
 - multiple inputs https://fr.reactjs.org/docs/forms.html#handling-multiple-inputs
@@ -93,8 +94,9 @@ cheap metaphore
 
 tools
 - react console
-- create react app doc https://create-react-app.dev/
+- create-react-app doc https://create-react-app.dev/
   - install dependencies https://create-react-app.dev/docs/installing-a-dependency
+- nice boilerplate https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0
 
 </details>
 <br>
