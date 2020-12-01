@@ -45,6 +45,7 @@ on react x ajax requests
 - todo inside componentDidMount(fetch("").then()...) https://fr.reactjs.org/docs/lifting-state-up.html#lessons-learned
 - with hooks: const [error, setError] = useState(null); const [isLoaded, setIsLoaded] = useState(false); const [items, setItems] = useState([]);
 - or without: this.state = { error: null, isLoaded: false, items: [] };
+- fetch vs axios https://blog.logrocket.com/axios-or-fetch-api/
 
 on forms
 - multiple inputs https://fr.reactjs.org/docs/forms.html#handling-multiple-inputs
@@ -85,7 +86,7 @@ tools
 </details>
 <br>
 
-## toRead list
+## to read list
 <details><summary>(click to toggle)</summary>
 
 https://reactfordesigners.com/
