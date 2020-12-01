@@ -11,8 +11,8 @@
   - Immediately Invoked Function Expression https://developer.mozilla.org/fr/docs/Glossaire/IIFE
   
 </details>
-
 <br>
+
 ## react
 <details><summary>(click to toggle)</summary>
 
@@ -81,9 +81,8 @@
   - react console
 
 </details>
-
-
 <br>
+
 ## toRead list
 <details><summary>(click to toggle)</summary>
 
