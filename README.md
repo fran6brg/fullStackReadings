@@ -12,7 +12,7 @@
   
 </details>
 
-
+<br>
 ## react
 <details><summary>(click to toggle)</summary>
 
@@ -83,8 +83,8 @@
 </details>
 
 
-
-to read later
+<br>
+## toRead list
 <details><summary>(click to toggle)</summary>
 
 https://reactfordesigners.com/
