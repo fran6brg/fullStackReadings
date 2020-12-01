@@ -84,6 +84,10 @@
 
 
 
-to read later 
+to read later
+<details><summary>(click to toggle)</summary>
+
 https://reactfordesigners.com/
 https://github.com/gilamran/fullstack-typescript
+  
+</details>
