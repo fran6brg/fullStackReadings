@@ -5,6 +5,7 @@
 
 - in overall
   - lit javascript https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript
+  - react vocab https://fr.reactjs.org/docs/glossary.html#single-page-application
   
 - on functions
   - in overall https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_fonctions
