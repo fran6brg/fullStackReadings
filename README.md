@@ -48,7 +48,7 @@
 - on forms
   - multiple inputs https://fr.reactjs.org/docs/forms.html#handling-multiple-inputs
   - formik https://formik.org/docs/overview
-  - hook form (seems > formik) https://react-hook-form.com/
+  - hook form (seems > formik) https://react-hook-form.com/ | https://www.youtube.com/watch?v=bU_eq8qyjic
 
 - on hooks
   - this section https://fr.reactjs.org/docs/hooks-overview.html
