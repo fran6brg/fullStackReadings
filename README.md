@@ -88,5 +88,6 @@
 
 https://reactfordesigners.com/
 https://github.com/gilamran/fullstack-typescript
-  
+https://developer.mozilla.org/fr/docs/Web/API/File/Using_files_from_web_applications
+
 </details>
