@@ -6,6 +6,19 @@
 in overall
 - lit javascript https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript
 - react vocab https://fr.reactjs.org/docs/glossary.html#single-page-application
+
+***tools to use js libraries in browser***
+  - a brief review https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70
+  - 1) use a package manager to manage dependencies: npm
+    - ```npm install x --save``` -> install x in node_modules + modify package.json
+    - useful later when sharing a project with others
+    - instead of sharing the node_modules folder (which can get very large), you only need to share the package.json
+  - 2) use a module bundler to create a single, browser compatible, file from dependencies: webpack
+    - ```$ npm install webpack webpack-cli --save-dev```
+    - ```<script src="dist/main.js"></script>``` this avoid loading external scripts via global variables
+    - live reloading ```npm install webpack-dev-server --save-dev``` + ```"server": "webpack-dev-server --open"```
+  - 3) use a transpiler: babel
+    - to transpile experimental/new features to browser compatible languages, since browsers are slow to update
   
 on functions
 - in overall https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_fonctions
@@ -89,6 +102,7 @@ tools
 ## to read list
 <details><summary>(click to toggle)</summary>
 
+https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0
 https://reactfordesigners.com/
 https://github.com/gilamran/fullstack-typescript
 https://developer.mozilla.org/fr/docs/Web/API/File/Using_files_from_web_applications
