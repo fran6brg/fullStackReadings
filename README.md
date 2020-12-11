@@ -25,7 +25,6 @@ on functions
 - Immediately Invoked Function Expression https://developer.mozilla.org/fr/docs/Glossaire/IIFE
   
 </details>
-<br>
 
 ## react
 <details><summary>(click to toggle)</summary>
@@ -99,7 +98,11 @@ tools
 - nice boilerplate https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0
 
 </details>
-<br>
+
+## mern stack
+<details><summary>(click to toggle)</summary>
+- an overview https://github.com/accimeesterlin/mernapp_youtube
+</details>
 
 ## to read list
 <details><summary>(click to toggle)</summary>
