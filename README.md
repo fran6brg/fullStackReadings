@@ -24,10 +24,11 @@ on functions
 - in overall https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_fonctions
 - Immediately Invoked Function Expression https://developer.mozilla.org/fr/docs/Glossaire/IIFE
 
-on way to write js
+on the right way to write js
 - standardjs https://standardjs.com/rules-fr.html 
 - airbnb https://github.com/airbnb/javascript
 - google https://google.github.io/styleguide/jsguide.html
+- VSCode + ESLint + Prettier https://www.youtube.com/watch?v=lGCHjQl6XLw
 
 </details>
 
