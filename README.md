@@ -29,7 +29,9 @@ on the right way to write js
 - airbnb https://github.com/airbnb/javascript
 - google https://google.github.io/styleguide/jsguide.html
 - VSCode + ESLint + Prettier https://www.youtube.com/watch?v=lGCHjQl6XLw
-
+- tips:
+  - https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859
+  
 </details>
 
 ## react
