@@ -29,9 +29,28 @@ on the right way to write js
 - airbnb https://github.com/airbnb/javascript
 - google https://google.github.io/styleguide/jsguide.html
 - VSCode + ESLint + Prettier https://www.youtube.com/watch?v=lGCHjQl6XLw
-- tips:
+
+on clean code
+- KISS
+- DRY
+- By reading the name of function or variable one should understand its purpose (getPost() {} - .isLoggedIn)
+- Function should not be larger than 20–25 lines. Smaller the function is better.
+- fail-fast approach: when writing a new function, return early and fail fast
+- when using loops, prefer the functional programming way such as filter, map or reduce over traditional for loops
+- don’t ever leave commented out code, otherwise known as “zombie code” in your codebase
+- use async/await of .then()
+- use exports in Node.js
+- sources:
   - https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859
+  - https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am
+  - https://www.sitepoint.com/understanding-module-exports-exports-node-js/
   
+</details>
+
+## node
+<details><summary>(click to toggle)</summary>
+- modules https://www.w3schools.com/nodejs/ref_modules.asp
+
 </details>
 
 ## react
