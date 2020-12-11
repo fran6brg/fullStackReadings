@@ -105,6 +105,14 @@ tools
 - nice packages
   - concurrently https://www.npmjs.com/package/concurrently
   - morgan https://www.npmjs.com/package/morgan
+  
+</details>
+
+## vue.js
+<details><summary>(click to toggle)</summary>
+- https://vuejs.org/
+- https://vueschool.io/courses/the-vuejs-master-class
+  
 </details>
 
 ## to read list
