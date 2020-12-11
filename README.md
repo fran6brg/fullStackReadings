@@ -102,6 +102,9 @@ tools
 ## mern stack
 <details><summary>(click to toggle)</summary>
 - an overview https://github.com/accimeesterlin/mernapp_youtube
+- nice packages
+  - concurrently https://www.npmjs.com/package/concurrently
+  - morgan https://www.npmjs.com/package/morgan
 </details>
 
 ## to read list
