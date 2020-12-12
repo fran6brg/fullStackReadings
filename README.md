@@ -24,6 +24,15 @@ on functions
 - in overall https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_fonctions
 - Immediately Invoked Function Expression https://developer.mozilla.org/fr/docs/Glossaire/IIFE
 
+on use cases of looping through an array (functional programming) https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript/6024310#6024310
+- .forEach()
+- .some()
+- .map()
+- .reduce()
+- .filter()
+- .sort()
+- .find()
+
 on the right way to write js
 - standardjs https://standardjs.com/rules-fr.html 
 - airbnb https://github.com/airbnb/javascript
