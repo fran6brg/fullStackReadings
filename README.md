@@ -63,6 +63,7 @@ on clean code
 - some nice libs
   - loglevel https://www.npmjs.com/package/loglevel
   - winston https://www.npmjs.com/package/winston
+- try catch finally https://www.w3schools.com/jsref/jsref_try_catch.asp
 - sources:
   - https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859
   - https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am
