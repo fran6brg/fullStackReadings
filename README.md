@@ -58,8 +58,11 @@ on clean code
   - use === instead of ==
   - avoid negative conditionals
   - whenever it's possible use polymorphism and inheritance instead.
- - classes:
+- classes:
   - use method chaining.
+- some nice libs
+  - loglevel https://www.npmjs.com/package/loglevel
+  - winston https://www.npmjs.com/package/winston
 - sources:
   - https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859
   - https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am
