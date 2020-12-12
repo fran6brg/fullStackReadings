@@ -31,19 +31,41 @@ on the right way to write js
 - VSCode + ESLint + Prettier https://www.youtube.com/watch?v=lGCHjQl6XLw
 
 on clean code
+- ***"Your project should look like a forest, consisting of trees (module sections) and branches (groups of modules and module files)."***
+- ***"Keeping logic in the right place is key to maintainability"***
 - KISS
 - DRY
-- By reading the name of function or variable one should understand its purpose (getPost() {} - .isLoggedIn)
-- Function should not be larger than 20–25 lines. Smaller the function is better.
-- fail-fast approach: when writing a new function, return early and fail fast
+- naming:
+  - By reading the name of function or variable one should understand its purpose (getPost() {} - .isLoggedIn)
+  - Don't add unnecessary context.
+- functions:
+  - a function should do one thing
+  - function name should be a verb or a phrase fully exposing the intent behind it as well as the intent of the arguments.
+  - use default arguments instead of conditionals
+  - prefer multiple (1...4~5) parameters over single object parameters
+  - don't use flags as parameters because they are telling you that the function is doing more than it should.
+  - fail-fast approach: when writing a new function, return early and fail fast
+  - function should not be larger than 20–25 lines. Smaller the function is better
 - when using loops, prefer the functional programming way such as filter, map or reduce over traditional for loops
 - don’t ever leave commented out code, otherwise known as “zombie code” in your codebase
+- use better logger https://www.npmjs.com/package/winston
 - use async/await of .then()
-- use exports in Node.js
+- module import order 3rd party packages ; reusable components ; utility functions ; submodules
+- exports
+  - use exports in Node.js
+  - use destructuring
+- conditionals:
+  - use === instead of ==
+  - avoid negative conditionals
+  - whenever it's possible use polymorphism and inheritance instead.
+ - classes:
+  - use method chaining.
 - sources:
   - https://medium.com/javascript-in-plain-english/5-best-practices-for-writing-clean-javascript-be366adb2859
   - https://dev.to/deepaksisodiya/5-best-practices-for-clean-coding-in-javascript-26am
   - https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+  - https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
+  - https://blog.logrocket.com/12-tips-for-writing-clean-and-scalable-javascript-3ffe30abfe20/#:~:text=1.,do%20multiple%20things%20at%20once.
   
 </details>
 
