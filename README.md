@@ -172,9 +172,21 @@ tools
 
 ## vue
 <details><summary>(click to toggle)</summary>
-- https://vuejs.org/
-- https://vueschool.io/courses/the-vuejs-master-class
-  
+
+on vocabulary:
+  - on syntax
+    - rendu déclaratif
+    - directives v-bind:title="", v-for:"n in ns", v:key, v-model="", v-if:
+    - @eventToListen="methodName", v-on:click="..."
+    - two way bindings
+  - on logic
+    - partie interface de l'app
+    - partie logique de l'app
+    - composition API vs option API
+
+on workflow:
+  - mount('#id')
+ 
 </details>
 
 ## to read list
