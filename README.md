@@ -189,6 +189,13 @@ on workflow:
  
 </details>
 
+## mongoDB
+<details><summary>(click to toggle)</summary>
+on relations between models
+  - https://docs.mongodb.com/manual/tutorial/model-referenced-one-to-many-relationships-between-documents/
+  
+</details>
+
 ## to read list
 <details><summary>(click to toggle)</summary>
 
