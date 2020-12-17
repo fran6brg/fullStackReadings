@@ -179,6 +179,7 @@ on vocabulary:
     - directives v-bind:title="", v-for:"n in ns", v:key, v-model="", v-if:
     - @eventToListen="methodName", v-on:click="..."
     - two way bindings
+    - conditional :class="{ cssClassName: object.boolean }" @click="function(param)"
   - on logic
     - partie interface de l'app
     - partie logique de l'app
@@ -196,17 +197,15 @@ on relations between models
   
 </details>
 
+## eslint
+<details><summary>(click to toggle)</summary>
+- nice article https://www.synbioz.com/blog/tech/un-code-js-impeccable-grace-a-eslint
+  
+</details>
+
 ## to read list
 <details><summary>(click to toggle)</summary>
 
-https://dev.to/nikhilkumaran/don-t-use-create-react-app-how-you-can-set-up-your-own-reactjs-boilerplate-43l0
-https://reactfordesigners.com/
-https://github.com/gilamran/fullstack-typescript
-https://developer.mozilla.org/fr/docs/Web/API/File/Using_files_from_web_applications
-https://nextjs.org/learn/basics/create-nextjs-app
-https://codesandbox.io/s/kw7z2q2n15?file=/src/index.js:803-833
-https://www.gatsbyjs.com/docs/
-https://fr.reactjs.org/docs/glossary.html#single-page-application
-https://github.com/facebook/create-react-app#popular-alternatives
+cleared
 
 </details>
