@@ -188,6 +188,9 @@ on vocabulary:
 on workflow:
   - mount('#id')
  
+on router x authentication:
+ - nice tut https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase
+ 
 </details>
 
 ## mongoDB
