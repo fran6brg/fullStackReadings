@@ -19,10 +19,13 @@ in overall
     - live reloading ```npm install webpack-dev-server --save-dev``` + ```"server": "webpack-dev-server --open"```
   - 3) use a transpiler: babel
     - to transpile experimental/new features to browser compatible languages, since browsers are slow to update
-  
+
 on functions
 - in overall https://developer.mozilla.org/fr/docs/Web/JavaScript/Une_r%C3%A9introduction_%C3%A0_JavaScript#Les_fonctions
 - Immediately Invoked Function Expression https://developer.mozilla.org/fr/docs/Glossaire/IIFE
+
+on functions vs classes:
+- which one https://stackoverflow.com/questions/18202818/classes-vs-functions#:~:text=8%20Answers&text=Create%20a%20function.,function%20is%20all%20you%20need.
 
 on use cases of looping through an array (functional programming) https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript/6024310#6024310
 - .forEach()
