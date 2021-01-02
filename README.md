@@ -206,6 +206,12 @@ on relations between models
   
 </details>
 
+## interview
+<details><summary>(click to toggle)</summary>
+- 70 JavaScript Interview Questions https://dev.to/macmacky/70-javascript-interview-questions-5gfi
+  
+</details>
+
 ## to read list
 <details><summary>(click to toggle)</summary>
 
