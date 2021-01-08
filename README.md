@@ -196,6 +196,13 @@ on router x authentication:
  
 </details>
 
+## Nuxt.js
+<details><summary>(click to toggle)</summary>
+on relations between models
+  - npx create-nuxt-app projectName
+  
+</details>
+
 ## mongoDB
 <details><summary>(click to toggle)</summary>
 on relations between models
