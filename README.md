@@ -82,7 +82,7 @@ on clean code
   - https://www.sitepoint.com/understanding-module-exports-exports-node-js/
   - https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
   - https://blog.logrocket.com/12-tips-for-writing-clean-and-scalable-javascript-3ffe30abfe20/#:~:text=1.,do%20multiple%20things%20at%20once.
-  - some best practices https://www.youtube.com/watch?v=Mus_vwhTCq0
+  - some best practices https://github.com/codediodeio/code-this-not-that-js | https://www.youtube.com/watch?v=Mus_vwhTCq0
   
 </details>
 
