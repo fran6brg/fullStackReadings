@@ -27,7 +27,7 @@ on functions
 on functions vs classes:
 - which one https://stackoverflow.com/questions/18202818/classes-vs-functions#:~:text=8%20Answers&text=Create%20a%20function.,function%20is%20all%20you%20need.
 
-on use cases of looping through an array (functional programming) https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript/6024310#6024310
+on looping (functional programming) https://stackoverflow.com/questions/3010840/loop-through-an-array-in-javascript/6024310#6024310
 - .forEach()
 - .some()
 - .map()
@@ -82,6 +82,7 @@ on clean code
   - https://www.sitepoint.com/understanding-module-exports-exports-node-js/
   - https://devinduct.com/blogpost/22/javascript-clean-code-best-practices
   - https://blog.logrocket.com/12-tips-for-writing-clean-and-scalable-javascript-3ffe30abfe20/#:~:text=1.,do%20multiple%20things%20at%20once.
+  - some best practices https://www.youtube.com/watch?v=Mus_vwhTCq0
   
 </details>
 
