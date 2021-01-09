@@ -194,6 +194,9 @@ on workflow:
  
 on router x authentication:
  - nice tut https://savvyapps.com/blog/definitive-guide-building-web-app-vuejs-firebase
+
+on VS code extensions setup:
+ - https://www.vuemastery.com/blog/vs-code-for-vuejs-developers/
  
 </details>
 
