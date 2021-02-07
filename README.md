@@ -41,6 +41,7 @@ on the right way to write js
 - airbnb https://github.com/airbnb/javascript
 - google https://google.github.io/styleguide/jsguide.html
 - VSCode + ESLint + Prettier https://www.youtube.com/watch?v=lGCHjQl6XLw
+- https://jstherightway.org/
 
 on clean code
 - ***"Your project should look like a forest, consisting of trees (module sections) and branches (groups of modules and module files)."***
