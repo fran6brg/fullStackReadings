@@ -213,7 +213,9 @@ on relations between models
 <details><summary>(click to toggle)</summary>
 on relations between models
   - https://docs.mongodb.com/manual/tutorial/model-referenced-one-to-many-relationships-between-documents/
-  
+
+nice article on containerized mongo
+  - https://www.bmc.com/blogs/mongodb-docker-container/
 </details>
 
 ## eslint
